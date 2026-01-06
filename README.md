@@ -32,11 +32,14 @@ I am a dedicated Data Science student passionate about programming, data analysi
 - **[Movie Rental Analysis](https://github.com/mtahanaeem/Movie-rental-analysis)** ![Python](https://img.shields.io/badge/Python-blue)  
   Revenue trend analysis of movie rentals, exploring monthly patterns and insights.
 
-- **[Student To-Do List](https://github.com/mtahanaeem/Student-To-Do-List)** ![Python](https://img.shields.io/badge/Python-blue)  
-  Task management app for students to organize, track, and prioritize assignments.
+- **[Student To-Do List DApp](https://github.com/mtahanaeem/student-todo-dapp)** ![Python](https://img.shields.io/badge/Python-blue)  
+  Decentralized To-Do application for students to organize, track, and prioritize daily tasks.
 
-- **[Election Project](https://github.com/mtahanaeem/Election-Project)** ![Python](https://img.shields.io/badge/Python-blue)  
+- **[Election Project](https://github.com/mtahanaeem/Election)** ![Python](https://img.shields.io/badge/Python-blue)  
   System to manage elections including candidate registration, vote recording, and result analysis.
+
+- **[Portfolio Website](https://github.com/mtahanaeem/Portfolio_Website)** ![HTML](https://img.shields.io/badge/HTML-orange)  
+  Personal portfolio website showcasing projects, skills, and contact information.
 
 ---
 
