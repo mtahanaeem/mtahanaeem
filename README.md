@@ -1,50 +1,61 @@
-# Muhammad Taha Naeem
+<!-- Header: Name & Title -->
+# 👋 Hi, I’m **Muhammad Taha Naeem**
+**Data Science Student | Problem Solver | Python & SQL Developer**
 
-**Data Science Student | 5th Semester**  
-
-I am a dedicated Data Science student passionate about programming, data analysis, and problem-solving. I am building my skills in Python, C++, SQL, and data management.  
+> I build data analysis projects, interactive apps, and real-world tools.  
+> I’m passionate about learning, improving, and contributing to open source.
 
 ---
 
-## 🛠️ Technical Skills
+
+
+## 🚀 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-F7DF1E?style=flat)
 
 ---
 
 ## 📂 Projects
 
-- **[Coffee Shop Sales Analysis](https://github.com/mtahanaeem/Coffee-Shop-Sales-Analysis)** ![Python](https://img.shields.io/badge/Python-blue)  
-  Analyzed coffee shop beverage sales to identify revenue-driving products and seasonal trends.
+Here are some of my featured repositories:
 
-- **[Video Game Sales Data Analysis](https://github.com/mtahanaeem/Video-Game-Sales-Data-Analysis-Insights)** ![Python](https://img.shields.io/badge/Python-blue)  
-  Explored 130,000+ video game sales records to find trends, popular genres, and market insights.
+### 📊 Data & Python Projects
+- **[Coffee Shop Sales Analysis](https://github.com/mtahanaeem/Coffee-Shop-Sales-Analysis)** – Python data analysis exploring sales trends.  
+- **[Video Game Sales Data Analysis](https://github.com/mtahanaeem/Video-Game-Sales-Data-Analysis-Insights)** – Trend insights from a large gaming dataset.  
+- **[Movie Rental Analysis](https://github.com/mtahanaeem/Movie-rental-analysis)** – Monthly revenue trend visualization with Python.
 
-- **[Tic Tac Toe Game in C++](https://github.com/mtahanaeem/Tic-Tac-Toe-Game-C-)** ![C++](https://img.shields.io/badge/C%2B%2B-blue)  
-  Classic Tic Tac Toe game implementing arrays, loops, and file handling.
+### 📱 Apps & Tools
+- **[Student To-Do List DApp](https://github.com/mtahanaeem/student-todo-dapp)** – Task organizer app.  
+- **[Election Project](https://github.com/mtahanaeem/Election)** – Voting system with candidate registration & result analysis.
 
-- **[Employees Payroll System Database](https://github.com/mtahanaeem/Building-an-Employees-Payroll-System-database)** ![SQL](https://img.shields.io/badge/SQL-blue)  
-  Payroll management system handling employee records and automated salary calculations.
+### 💻 Software & Algorithms
+- **[Tic Tac Toe Game in C++](https://github.com/mtahanaeem/Tic-Tac-Toe-Game-C-)** – Classic game implementation.  
+- **[Employees Payroll System Database](https://github.com/mtahanaeem/Building-an-Employees-Payroll-System-database)** – SQL-based payroll manager.
 
-- **[Movie Rental Analysis](https://github.com/mtahanaeem/Movie-rental-analysis)** ![Python](https://img.shields.io/badge/Python-blue)  
-  Revenue trend analysis of movie rentals, exploring monthly patterns and insights.
-
-- **[Student To-Do List DApp](https://github.com/mtahanaeem/student-todo-dapp)** ![Python](https://img.shields.io/badge/Python-blue)  
-  Decentralized To-Do application for students to organize, track, and prioritize daily tasks.
-
-- **[Election Project](https://github.com/mtahanaeem/Election)** ![Python](https://img.shields.io/badge/Python-blue)  
-  System to manage elections including candidate registration, vote recording, and result analysis.
-
-- **[Portfolio Website](https://github.com/mtahanaeem/Portfolio_Website)** ![HTML](https://img.shields.io/badge/HTML-orange)  
-  Personal portfolio website showcasing projects, skills, and contact information.
+### 🌐 Other
+- **[Portfolio Website](https://github.com/mtahanaeem/Portfolio_Website)** – Personal showcase site featuring skills & projects.
 
 ---
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-muhamadtahanaeem.pro@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:muhamadtahanaeem.pro@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyitxtaha)  
+[![Gmail](https://img.shields.io/badge/Email-muhamadtahanaeem.pro@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:muhamadtahanaeem.pro@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github&logoColor=white)](https://github.com/mtahanaeem)
+
+---
+
+## 💡 Profile Goals
+
+- 🌱 Learning advanced data science and machine learning.  
+- 💼 Building real-world projects.  
+- 🤝 Collaborating in open source communities.
+
+---
+
+> “Work hard in silence — let your GitHub speak!” 🚀  
