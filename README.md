@@ -20,7 +20,7 @@
 ```python
 class AboutMe:
     name = "Muhammad Taha Naeem"
-    semester = "5th"
+    semester = "^th"
     major = "Data Science"
     specialization = "Python | Big Data | Blockchain | Data Analysis"
     
