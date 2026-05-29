@@ -90,7 +90,7 @@ class AboutMe:
 <p align="center">
   <a href="https://github.com/mtahanaeem/BDA-OpinionMining"><img src="https://img.shields.io/badge/BDA_OpinionMining-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="BDA OpinionMining Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline"><img src="https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Job Market Analytics Repo"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mtahanaeem/mtahanaeem-Web.Scraper.for.E-Commerce.Site"><img src="https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Web Scraper Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/Web-Scraper-Ecommerce"><img src="https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Web Scraper Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/student-todo-dapp"><img src="https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Todo DApp Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Election"><img src="https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Election DApp Repo"/></a>
 </p>
