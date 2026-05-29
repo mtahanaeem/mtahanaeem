@@ -17,6 +17,16 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-F7DF1E?style=flat)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&layout=compact&theme=radical)
 
 ---
 
@@ -26,7 +36,7 @@ Here are some of my featured repositories:
 
 ### 🧠 Data Engineering & Big Data
 - **[BDA OpinionMining](https://github.com/mtahanaeem/BDA-OpinionMining)** – Real-time opinion mining pipeline using Kafka, PySpark, Hugging Face, and React dashboard for streaming sentiment analysis.
-- **[Job Market Analytics Pipeline](https://github.com/mtahanaeem/Assignment3-Tools-and-Techniques)** – End-to-end data pipeline for job market analytics with Airflow, KNIME, n8n, Flask, and Docker.
+- **[Job Market Analytics Pipeline](https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline)** – End-to-end data pipeline for job market analytics with Airflow, KNIME, n8n, Flask, and Docker.
 
 ### 📊 Data & Python Projects
 - **[Web Scraper for E-Commerce](https://github.com/mtahanaeem/mtahanaeem-Web.Scraper.for.E-Commerce.Site)** – Python web scraper for e-commerce product data with cleaning, pagination, and CSV export.
@@ -42,8 +52,8 @@ Here are some of my featured repositories:
 - **[Tic Tac Toe Game in C++](https://github.com/mtahanaeem/Tic-Tac-Toe-Game-C-)** – Classic game implementation.  
 - **[Employees Payroll System Database](https://github.com/mtahanaeem/Building-an-Employees-Payroll-System-database)** – SQL-based payroll manager.
 
-### 🌐 Other
-- **[Portfolio Website](https://github.com/mtahanaeem/Portfolio_Website)** – Personal showcase site featuring skills & projects.
+### 🌐 Live & Other
+- **[Portfolio Website](https://datascience-portfolio-website.netlify.app/)** – Live personal portfolio showcasing projects, skills, and resume.
 
 ---
 
