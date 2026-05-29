@@ -24,7 +24,12 @@
 
 Here are some of my featured repositories:
 
+### 🧠 Data Engineering & Big Data
+- **[BDA OpinionMining](https://github.com/mtahanaeem/BDA-OpinionMining)** – Real-time opinion mining pipeline using Kafka, PySpark, Hugging Face, and React dashboard for streaming sentiment analysis.
+- **[Job Market Analytics Pipeline](https://github.com/mtahanaeem/Assignment3-Tools-and-Techniques)** – End-to-end data pipeline for job market analytics with Airflow, KNIME, n8n, Flask, and Docker.
+
 ### 📊 Data & Python Projects
+- **[Web Scraper for E-Commerce](https://github.com/mtahanaeem/mtahanaeem-Web.Scraper.for.E-Commerce.Site)** – Python web scraper for e-commerce product data with cleaning, pagination, and CSV export.
 - **[Coffee Shop Sales Analysis](https://github.com/mtahanaeem/Coffee-Shop-Sales-Analysis)** – Python data analysis exploring sales trends.  
 - **[Video Game Sales Data Analysis](https://github.com/mtahanaeem/Video-Game-Sales-Data-Analysis-Insights)** – Trend insights from a large gaming dataset.  
 - **[Movie Rental Analysis](https://github.com/mtahanaeem/Movie-rental-analysis)** – Monthly revenue trend visualization with Python.
