@@ -84,6 +84,7 @@ class AboutMe:
 | 🛒 **E-Commerce Scraper** | Modular web scraper for product data collection & cleaning | Python, BeautifulSoup, Pandas |
 | 📝 **Student Todo DApp** | Decentralized task management on Ethereum blockchain | Solidity, Web3.js, React |
 | 🗳️ **Election DApp** | Secure, transparent voting system on Ethereum | Solidity, Web3.js, Truffle |
+| 🏷️ **PakDeals Finder** | AI-powered deal aggregation for Pakistani e-commerce | Python, Flask, React, LangGraph, Groq |
 
 </div>
 
@@ -92,7 +93,8 @@ class AboutMe:
   <a href="https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline"><img src="https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Job Market Analytics Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Web-Scraper-Ecommerce"><img src="https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Web Scraper Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/student-todo-dapp"><img src="https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Todo DApp Repo"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mtahanaeem/Election"><img src="https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Election DApp Repo"/></a>
+  <a href="https://github.com/mtahanaeem/Election"><img src="https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="Election DApp Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/pakdeals-finder"><img src="https://img.shields.io/badge/PakDeals_Finder-C0C0C0?style=for-the-badge&logo=github&logoColor=black" alt="PakDeals Finder Repo"/></a>
 </p>
 
 ---
