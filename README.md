@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Building+reliable,+production-ready+data+pipelines+%26+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Building+reliable,+production-ready+data+pipelines+%26+systems." alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -109,8 +109,8 @@ class Developer:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22&layout=compact" height="165" alt="Top Languages" />
 </p>
 
 <hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
