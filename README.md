@@ -141,9 +141,7 @@ class AboutMe:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtahanaeem&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/mtahanaeem/mtahanaeem/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+
 
 ---
 
