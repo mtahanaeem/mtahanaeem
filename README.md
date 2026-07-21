@@ -130,12 +130,8 @@ class AboutMe:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtahanaeem&theme=github_dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&bg_color=0d1117&title_color=7c6aff&text_color=ffffff&icon_color=7c6aff&border_color=30363d" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&bg_color=0d1117&title_color=7c6aff&text_color=ffffff&icon_color=7c6aff&border_color=30363d&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=mtahanaeem&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mtahanaeem&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
 </p>
 
 ---
