@@ -1,106 +1,131 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=161B22&section=header&text=MUHAMMAD%20TAHA%20NAEEM&fontSize=38&fontColor=22D3EE&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=MUHAMMAD%20TAHA%20NAEEM&fontSize=50&fontColor=E4CAB5&animation=fadeIn" width="100%"/>
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Building+reliable,+production-ready+data+pipelines+%26+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+%26+AI+ENGINEER;DISTRIBUTED+SYSTEMS+%7C+BIG+DATA+%7C+BLOCKCHAIN;BUILDING+PRODUCTION-READY+PIPELINES" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <a href="https://datascience-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=0D1117" alt="Portfolio"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/heyitxtaha/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mtahanaeem"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="mailto:muhamadtahanaeem.pro@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+  <a href="https://datascience-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/heyitxtaha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="mailto:muhamadtahanaeem.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
+---
+
+### 👨‍💻 About Me
 
 ```python
-class Developer:
+class AboutMe:
     name = "Muhammad Taha Naeem"
-    major = "Data Science"
-
-    def build(self):
-        return (
-            "Full pipeline engineering — from raw data to production services. "
-            "Specializing in distributed pipelines, real-time analytics, "
-            "and full-stack AI applications."
-        )
+    education = "BS Data Science"
+    specialization = "AI/ML | Big Data | Distributed Systems"
+    
+    def current_focus(self):
+        return "Building production-ready data pipelines & AI applications"
+    
+    def say_hello(self):
+        print("Thanks for stopping by! Check out my work below 👇")
 ```
 
 > 🌐 **[Explore my portfolio →](https://datascience-portfolio-website.netlify.app/)**
 
-<hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
+---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=mysql&logoColor=22D3EE)
-![Dart](https://img.shields.io/badge/Dart-161B22?style=for-the-badge&logo=dart&logoColor=22D3EE)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=22D3EE)
-![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
-![Solidity](https://img.shields.io/badge/Solidity-161B22?style=for-the-badge&logo=solidity&logoColor=22D3EE)
-![Shell](https://img.shields.io/badge/Shell-161B22?style=for-the-badge&logo=gnubash&logoColor=22D3EE)
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Data Engineering & AI**
-
-![Spark](https://img.shields.io/badge/Spark-161B22?style=for-the-badge&logo=apachespark&logoColor=A78BFA)
-![PySpark](https://img.shields.io/badge/PySpark-161B22?style=for-the-badge&logo=apachespark&logoColor=A78BFA)
-![Kafka](https://img.shields.io/badge/Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=A78BFA)
-![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
-![LangChain](https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=A78BFA)
-![Airflow](https://img.shields.io/badge/Airflow-161B22?style=for-the-badge&logo=apacheairflow&logoColor=A78BFA)
-![n8n](https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-![Pandas](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-![NumPy](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=A78BFA)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![XGBoost](https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge&logo=&logoColor=A78BFA)
-![SHAP](https://img.shields.io/badge/SHAP-161B22?style=for-the-badge&logo=&logoColor=A78BFA)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+<br>
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-2C3E50?style=for-the-badge&logo=&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Flutter](https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=22D3EE)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=22D3EE)
-![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=22D3EE)
-![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
-![Flask](https://img.shields.io/badge/Flask-161B22?style=for-the-badge&logo=flask&logoColor=22D3EE)
-![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=22D3EE)
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 </div>
 
-<hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
+---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Code |
-|:--------|:------------|:-----------|:-----|
-| 🏥 **Healthcare Pulse** | Disease surveillance & forecast dashboard with distributed processing | React, Flask, Spark, PostgreSQL, Docker | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/healthcare-pulse) |
-| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent with 12 AI modules | Python, LangChain, FastAPI, React, Docker | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/DevPilot-AI) |
-| 🏷️ **PakDeals Finder Pro** | AI deal aggregator across 4 e-commerce platforms with LLM ranking & RAG | Python, FastAPI, React, RAG, PostgreSQL | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/pakdeals-finder) |
-| 🏥 **MedAIx** | Cloud-mobile healthcare safety platform with QR medication verification | Flutter, FastAPI, QR Verification | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/UCP_Event_Tracker) |
-| 🏪 **Foam Shop ERP** | Retail inventory & accounting system with double-entry WAC engine | Flutter, Firebase, Dart | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/foam-shop-erp) |
-| 📋 **Opportunity Dashboard** | Internship & job opportunity CRUD platform with interactive analytics | Streamlit, PostgreSQL, Docker, Plotly | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/streamlit-postgres-opportunity-dashboard) |
-| 📊 **Churn Prediction** | End-to-end ML pipeline with SHAP explainability & React dashboard | Python, XGBoost, FastAPI, React, Docker | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/churn-prediction-pipeline) |
-| 💬 **BDA OpinionMining** | Real-time opinion mining pipeline with streaming sentiment analysis | Kafka, PySpark, Hugging Face, React, Docker | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/BDA-OpinionMining) |
-| 📝 **Noteflow** | Sleek PWA notes app with rich-text editing, voice recording & AI assistance | React, PWA, IndexedDB, Tailwind | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/noteflow) |
-| 📊 **Job Market Analytics** | End-to-end data pipeline for job market intelligence | Airflow, KNIME, n8n, Flask, Docker | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline) |
-| 🔄 **n8n AI Workflows** | AI-powered workflow automation with OpenRouter AI & Google APIs | n8n, OpenRouter AI, Google APIs | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/n8n-ai-workflow-automation) |
-| 💰 **Expense Splitter** | Telegram bot for roommate expense tracking with debt simplification | n8n, Telegram, Google Sheets, AI | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/n8n-roommate-expense-splitter) |
-| 📈 **Retail Demand Forecast** | Time-series forecasting model for retail demand prediction | Python, Prophet, Pandas | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/retail-demand-forecast) |
-| 🛒 **E-Commerce Scraper** | Modular web scraper for e-commerce product data collection & cleaning | Python, BeautifulSoup, Pandas | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/Web-Scraper-Ecommerce) |
-| 📝 **Student Todo DApp** | Decentralized task management on Ethereum blockchain | Solidity, Web3.js, React, Truffle | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/student-todo-dapp) |
-| 🗳️ **Election DApp** | Secure, transparent voting system on Ethereum | Solidity, Web3.js, Truffle | [![Repo](https://img.shields.io/badge/-161B22?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/mtahanaeem/Election) |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🏥 **Healthcare Pulse** | Disease surveillance & forecast dashboard with distributed processing | React, Flask, Spark, PostgreSQL, Docker |
+| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent with 12 AI modules | Python, LangChain, FastAPI, React, Docker |
+| 🏷️ **PakDeals Finder Pro** | AI deal aggregator across 4 e-commerce platforms with LLM ranking & RAG | Python, FastAPI, React, RAG, PostgreSQL |
+| 🏥 **MedAIx** | Cloud-mobile healthcare safety platform with QR medication verification | Flutter, FastAPI, QR Verification |
+| 🏪 **Foam Shop ERP** | Retail inventory & accounting system with double-entry WAC engine | Flutter, Firebase, Dart |
+| 📋 **Opportunity Dashboard** | Internship & job opportunity CRUD platform with interactive analytics | Streamlit, PostgreSQL, Docker, Plotly |
+| 📊 **Churn Prediction** | End-to-end ML pipeline with SHAP explainability & React dashboard | Python, XGBoost, FastAPI, React, Docker |
+| 💬 **BDA OpinionMining** | Real-time opinion mining pipeline with streaming sentiment analysis | Kafka, PySpark, Hugging Face, React, Docker |
+| 📝 **Noteflow** | Sleek PWA notes app with rich-text editing, voice recording & AI assistance | React, PWA, IndexedDB, Tailwind |
+| 📊 **Job Market Analytics** | End-to-end data pipeline for job market intelligence | Airflow, KNIME, n8n, Flask, Docker |
+| 🔄 **n8n AI Workflows** | AI-powered workflow automation with OpenRouter AI & Google APIs | n8n, OpenRouter AI, Google APIs |
+| 💰 **Expense Splitter** | Telegram bot for roommate expense tracking with debt simplification | n8n, Telegram, Google Sheets, AI |
+| 📈 **Retail Demand Forecast** | Time-series forecasting model for retail demand prediction | Python, Prophet, Pandas |
+| 🛒 **E-Commerce Scraper** | Modular web scraper for e-commerce product data collection & cleaning | Python, BeautifulSoup, Pandas |
+| 📝 **Student Todo DApp** | Decentralized task management on Ethereum blockchain | Solidity, Web3.js, React, Truffle |
+| 🗳️ **Election DApp** | Secure, transparent voting system on Ethereum | Solidity, Web3.js, Truffle |
 
-<hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
+<div align="center">
+
+[![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/healthcare-pulse)
+[![DevPilot-AI Repo](https://img.shields.io/badge/DevPilot_AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/DevPilot-AI)
+[![PakDeals Finder Pro Repo](https://img.shields.io/badge/PakDeals_Finder_Pro-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/pakdeals-finder)
+[![MedAIx Repo](https://img.shields.io/badge/MedAIx-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/UCP_Event_Tracker)
+[![Foam Shop ERP Repo](https://img.shields.io/badge/Foam_Shop_ERP-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/foam-shop-erp)
+[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/streamlit-postgres-opportunity-dashboard)
+[![Churn Prediction Repo](https://img.shields.io/badge/Churn_Prediction-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/churn-prediction-pipeline)
+[![BDA OpinionMining Repo](https://img.shields.io/badge/BDA_OpinionMining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/BDA-OpinionMining)
+[![Noteflow Repo](https://img.shields.io/badge/Noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/noteflow)
+[![Job Market Analytics Repo](https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline)
+[![n8n AI Workflows Repo](https://img.shields.io/badge/n8n_AI_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/n8n-ai-workflow-automation)
+[![Expense Splitter Repo](https://img.shields.io/badge/Expense_Splitter-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/n8n-roommate-expense-splitter)
+[![Retail Forecast Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/retail-demand-forecast)
+[![E-Commerce Scraper Repo](https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Web-Scraper-Ecommerce)
+[![Student Todo DApp Repo](https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/student-todo-dapp)
+[![Election DApp Repo](https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Election)
+
+</div>
+
+---
 
 ### 📊 GitHub Analytics
 
@@ -109,20 +134,20 @@ class Developer:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=161b22&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtahanaeem&show_icons=true&bg_color=0d1117&title_color=7c6aff&text_color=ffffff&icon_color=7c6aff&border_color=30363d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahanaeem&bg_color=0d1117&title_color=7c6aff&text_color=ffffff&icon_color=7c6aff&border_color=30363d&layout=compact" alt="Top Languages" />
 </p>
 
-<hr style="height:2px; border:none; background: linear-gradient(90deg, #0D1117 0%, #22D3EE 50%, #A78BFA 100%); margin: 28px 0;" />
+---
 
 <div align="center">
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://datascience-portfolio-website.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/heyitxtaha/)
-[![Email](https://img.shields.io/badge/-Email-161B22?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:muhamadtahanaeem.pro@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://datascience-portfolio-website.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyitxtaha/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadtahanaeem.pro@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=161B22&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
