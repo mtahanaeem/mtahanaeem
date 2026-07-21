@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+STUDENT;PYTHON+%26+SQL+DEVELOPER;BIG+DATA+%7C+BLOCKCHAIN+%7C+DATA+ANALYSIS;BUILDING+REAL-WORLD+PROJECTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C6AFF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+STUDENT;PYTHON+%26+SQL+DEVELOPER;BIG+DATA+%7C+BLOCKCHAIN+%7C+AI+ENGINEERING;BUILDING+REAL-WORLD+PROJECTS" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -20,12 +20,12 @@
 ```python
 class AboutMe:
     name = "Muhammad Taha Naeem"
-    semester = "6th"
+    semester = "7th"
     major = "Data Science"
-    specialization = "Python | Big Data | Blockchain | Data Analysis"
+    specialization = "Python | Big Data | Blockchain | AI Engineering"
     
     def current_focus(self):
-        return "Building data pipelines, DApps & analytics projects"
+        return "Building data pipelines, DApps & full-stack AI systems"
     
     def say_hello(self):
         print("Thanks for stopping by! Check out my work below 👇")
@@ -45,6 +45,7 @@ class AboutMe:
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Data & AI**
@@ -64,6 +65,7 @@ class AboutMe:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Blockchain & Web3**
@@ -91,14 +93,17 @@ class AboutMe:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 🏥 **Healthcare Pulse** | Disease surveillance & forecast dashboard with distributed processing | React, Flask, Spark, PostgreSQL, Docker |
-| 📋 **Opportunity Dashboard** | Internship & job opportunity management with full CRUD, analytics, & CSV import | Streamlit, PostgreSQL, Docker, Plotly |
+| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent with 12 modules | Python, LangChain, FastAPI, React, Docker |
+| 🏪 **Foam Shop ERP** | Retail inventory & accounting system with double-entry WAC engine | Flutter, Firebase, Dart |
+| 📋 **Opportunity Dashboard** | Internship & job opportunity management with full CRUD & analytics | Streamlit, PostgreSQL, Docker, Plotly |
 | 🏷️ **PakDeals Finder** | AI-powered deal aggregator across 4 e-commerce platforms with LLM analysis | Python, Flask, React, LangGraph, Groq |
 | 📊 **Churn Prediction** | End-to-end ML pipeline predicting telecom customer churn with SHAP insights | Python, FastAPI, XGBoost, React, Docker |
 | 💬 **BDA OpinionMining** | Real-time opinion mining pipeline with streaming sentiment analysis | Kafka, PySpark, Hugging Face, React |
-| 📝 **Noteflow** | Sleek PWA notes app with rich-text editing, voice recording, AI assistance & offline storage | React, PWA, IndexedDB, Tailwind |
+| 📝 **Noteflow** | Sleek PWA notes app with rich-text editing, voice recording & offline storage | React, PWA, IndexedDB, Tailwind |
 | 📊 **Job Market Analytics** | End-to-end data pipeline for job market intelligence | Airflow, KNIME, n8n, Flask, Docker |
-| 🤖 **DevPilot-AI** | Local-first AI-powered GitHub portfolio growth agent | Python, LangChain, LLM, Git |
-| 🔄 **n8n AI Workflows** | AI-powered workflow automation — forms, Calendar, Telegram, WhatsApp with OpenRouter AI | n8n, OpenRouter AI, Google APIs |
+| 🔄 **n8n AI Workflows** | AI-powered workflow automation with OpenRouter AI | n8n, OpenRouter AI, Google APIs |
+| 💰 **Expense Splitter** | Telegram bot for shared roommate expense tracking & settlement | n8n, Telegram, Google Sheets, AI |
+| 📈 **Retail Demand Forecast** | Time-series forecasting model for retail demand prediction | Python, Prophet, Pandas |
 | 🛒 **E-Commerce Scraper** | Modular web scraper for e-commerce product data collection & cleaning | Python, BeautifulSoup, Pandas |
 | 📝 **Student Todo DApp** | Decentralized task management on Ethereum blockchain | Solidity, Web3.js, React |
 | 🗳️ **Election DApp** | Secure, transparent voting system on Ethereum | Solidity, Web3.js, Truffle |
@@ -107,14 +112,17 @@ class AboutMe:
 
 <p align="center">
   <a href="https://github.com/mtahanaeem/healthcare-pulse"><img src="https://img.shields.io/badge/Healthcare_Pulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Healthcare Pulse Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/DevPilot-AI"><img src="https://img.shields.io/badge/DevPilot_AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevPilot-AI Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/foam-shop-erp"><img src="https://img.shields.io/badge/Foam_Shop_ERP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Foam Shop ERP Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/streamlit-postgres-opportunity-dashboard"><img src="https://img.shields.io/badge/Opportunity_Dashboard-181717?style=for-the-badge&logo=github&logoColor=white" alt="Opportunity Dashboard Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/pakdeals-finder"><img src="https://img.shields.io/badge/PakDeals_Finder-181717?style=for-the-badge&logo=github&logoColor=white" alt="PakDeals Finder Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/churn-prediction-pipeline"><img src="https://img.shields.io/badge/Churn_Prediction-181717?style=for-the-badge&logo=github&logoColor=white" alt="Churn Prediction Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/BDA-OpinionMining"><img src="https://img.shields.io/badge/BDA_OpinionMining-181717?style=for-the-badge&logo=github&logoColor=white" alt="BDA OpinionMining Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/noteflow"><img src="https://img.shields.io/badge/Noteflow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Noteflow Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline"><img src="https://img.shields.io/badge/Job_Market_Analytics-181717?style=for-the-badge&logo=github&logoColor=white" alt="Job Market Analytics Repo"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mtahanaeem/DevPilot-AI"><img src="https://img.shields.io/badge/DevPilot_AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevPilot-AI Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/n8n-ai-workflow-automation"><img src="https://img.shields.io/badge/n8n_AI_Workflows-181717?style=for-the-badge&logo=github&logoColor=white" alt="n8n AI Workflows Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/n8n-roommate-expense-splitter"><img src="https://img.shields.io/badge/Expense_Splitter-181717?style=for-the-badge&logo=github&logoColor=white" alt="Expense Splitter Repo"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mtahanaeem/retail-demand-forecast"><img src="https://img.shields.io/badge/Retail_Forecast-181717?style=for-the-badge&logo=github&logoColor=white" alt="Retail Demand Forecast Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Web-Scraper-Ecommerce"><img src="https://img.shields.io/badge/E_Commerce_Scraper-181717?style=for-the-badge&logo=github&logoColor=white" alt="Web Scraper Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/student-todo-dapp"><img src="https://img.shields.io/badge/Student_Todo_DApp-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todo DApp Repo"/></a>&nbsp;&nbsp;
   <a href="https://github.com/mtahanaeem/Election"><img src="https://img.shields.io/badge/Election_DApp-181717?style=for-the-badge&logo=github&logoColor=white" alt="Election DApp Repo"/></a>
@@ -131,6 +139,10 @@ class AboutMe:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtahanaeem&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtahanaeem&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mtahanaeem/mtahanaeem/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
