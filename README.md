@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://datascience-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://tahasync-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/heyitxtaha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mtahanaeem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="mailto:muhamadtahanaeem.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/tahasync"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="mailto:taha-codes@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ class AboutMe:
         print("Thanks for stopping by! Check out my work below 👇")
 ```
 
-> 🌐 **[Explore my portfolio →](https://datascience-portfolio-website.netlify.app/)**
+> 🌐 **[Explore my portfolio →](https://tahasync-portfolio.netlify.app/)**
 
 ---
 
@@ -106,32 +106,36 @@ class AboutMe:
 
 <div align="center">
 
-[![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/healthcare-pulse)
-[![DevPilot-AI Repo](https://img.shields.io/badge/DevPilot_AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/DevPilot-AI)
-[![PakDeals Finder Pro Repo](https://img.shields.io/badge/PakDeals_Finder_Pro-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/pakdeals-finder)
-[![MedAIx Repo](https://img.shields.io/badge/MedAIx-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/UCP_Event_Tracker)
-[![Foam Shop ERP Repo](https://img.shields.io/badge/Foam_Shop_ERP-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/foam-shop-erp)
-[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/streamlit-postgres-opportunity-dashboard)
-[![Churn Prediction Repo](https://img.shields.io/badge/Churn_Prediction-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/churn-prediction-pipeline)
-[![BDA OpinionMining Repo](https://img.shields.io/badge/BDA_OpinionMining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/BDA-OpinionMining)
-[![Noteflow Repo](https://img.shields.io/badge/Noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/noteflow)
-[![Job Market Analytics Repo](https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Job-Market-Analytics-Pipeline)
-[![n8n AI Workflows Repo](https://img.shields.io/badge/n8n_AI_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/n8n-ai-workflow-automation)
-[![Expense Splitter Repo](https://img.shields.io/badge/Expense_Splitter-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/n8n-roommate-expense-splitter)
-[![Retail Forecast Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/retail-demand-forecast)
-[![E-Commerce Scraper Repo](https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Web-Scraper-Ecommerce)
-[![Student Todo DApp Repo](https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/student-todo-dapp)
-[![Election DApp Repo](https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mtahanaeem/Election)
+[![Healthcare Pulse Repo](https://img.shields.io/badge/Healthcare_Pulse-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/healthcare-pulse)
+[![DevPilot-AI Repo](https://img.shields.io/badge/DevPilot_AI-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/DevPilot-AI)
+[![PakDeals Finder Pro Repo](https://img.shields.io/badge/PakDeals_Finder_Pro-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/pakdeals-finder)
+[![MedAIx Repo](https://img.shields.io/badge/MedAIx-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/UCP_Event_Tracker)
+[![Foam Shop ERP Repo](https://img.shields.io/badge/Foam_Shop_ERP-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/foam-shop-erp)
+[![Opportunity Dashboard Repo](https://img.shields.io/badge/Opportunity_Dashboard-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/streamlit-postgres-opportunity-dashboard)
+[![Churn Prediction Repo](https://img.shields.io/badge/Churn_Prediction-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/churn-prediction-pipeline)
+[![BDA OpinionMining Repo](https://img.shields.io/badge/BDA_OpinionMining-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/BDA-OpinionMining)
+[![Noteflow Repo](https://img.shields.io/badge/Noteflow-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/noteflow)
+[![Job Market Analytics Repo](https://img.shields.io/badge/Job_Market_Analytics-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Job-Market-Analytics-Pipeline)
+[![n8n AI Workflows Repo](https://img.shields.io/badge/n8n_AI_Workflows-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-ai-workflow-automation)
+[![Expense Splitter Repo](https://img.shields.io/badge/Expense_Splitter-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/n8n-roommate-expense-splitter)
+[![Retail Forecast Repo](https://img.shields.io/badge/Retail_Forecast-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/retail-demand-forecast)
+[![E-Commerce Scraper Repo](https://img.shields.io/badge/E_Commerce_Scraper-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Web-Scraper-Ecommerce)
+[![Student Todo DApp Repo](https://img.shields.io/badge/Student_Todo_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/student-todo-dapp)
+[![Election DApp Repo](https://img.shields.io/badge/Election_DApp-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tahasync/Election)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=tahasync&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180px" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tahasync&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=mtahanaeem&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mtahanaeem&theme=radical&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/tahasync/tahasync/main/images/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
 </p>
 
 ---
@@ -140,9 +144,9 @@ class AboutMe:
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://datascience-portfolio-website.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tahasync-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyitxtaha/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadtahanaeem.pro@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha-codes@outlook.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&animation=fadeIn" width="100%"/>
 
