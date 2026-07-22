@@ -1,0 +1,21 @@
+name: Generate Snake
+
+on: workflow_dispatch
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: tahasync
+          outputs: images/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - run: |
+          git config user.name "mtahanaeem"
+          git config user.email "mtahanaeem@users.noreply.github.com"
+          git add images/github-contribution-grid-snake-dark.svg
+          git commit -m "snake" && git push || true
